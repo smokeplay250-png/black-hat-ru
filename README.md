@@ -117,4 +117,4 @@ PDF лежат в папке [`black hat books/`](black%20hat%20books/).
 
 Перевод распространяется на условиях файла [`LICENSE`](LICENSE): бесплатно и свободно, но без права продажи и с обязательным указанием авторства оригинальных авторов. Исходный код примеров и любые материалы оригинальных книг под лицензию не входят и принадлежат их авторам.
 
-![Views](https://hits.sh/smokeplay250-black-hat-ru.svg?label=Views)
+[![Views](https://hits.sh/gitlab.com/xzscripts-group/black-hat-ru.svg?label=Views&color=007ec6)](https://gitlab.com/xzscripts-group/black-hat-ru)
